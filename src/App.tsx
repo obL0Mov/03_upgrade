@@ -6,6 +6,7 @@ function App() {
   return (
     <div className="App">
       <p>dfjglkjdflkjglkdf</p>
+      <p>кто ты воин?</p>
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
