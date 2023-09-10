@@ -7,6 +7,7 @@ function App() {
     <div className="App">
       <p>dfjglkjdflkjglkdf</p>
       <p>кто ты воин?</p>
+      <span> Ахилес, сын Пелея</span>
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
